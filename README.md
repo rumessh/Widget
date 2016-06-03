@@ -3,7 +3,7 @@ Repository for embeddable widgets
 #Weather widget
 Embeddable widget build on AngularJS. It can be embedded in any website. 
 ##Usage
-Include the following line after <body> tag
+Include the following line after ```<body>``` tag
 ```html
 <script type="text/javascript" src="weatherwidget.js"></script>
 ```
