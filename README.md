@@ -2,6 +2,7 @@
 Repository for embeddable widgets
 #Weather widget
 Embeddable widget build on AngularJS. It can be embedded in any website. Yahoo weather API is used to get the weather updates
+###Preview <a href="http://rumessh.github.io/src/weather/WeatherWidgetDemo.html">here</a>
 ##Usage
 Include the following line after ```<body>``` tag
 ```html
